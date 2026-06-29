@@ -5,18 +5,24 @@
 A PowerShell script that generates randomized dynamic patrol groups for the [Hunterz's AI Bandit mod for DayZ](https://steamcommunity.com/sharedfiles/filedetails/?id=3628006769).
 
 ## Human-drafted instructions:
-- Download this repo and save the files somewhere convenient
-- Use [Dab's DayZ Edtior mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2250764298) to place items as waypoints and export as JSON object-spawner file. Do this many times over for each patrol, naming each exported JSON with your preferred patrol name.
-- Copy your exported patrol JSON files into the \sourcePatrolFiles folder. _(I have left some Namalsk patrol files as examples, delete those before running the script with your patrols)_
-- The \slotItemLists folder stores a collection of text files named for each bandit loadout slot, the list of AI Bandit NPC types, the list of weaponpool items and a random list of global loot. _(You can edit, add, remove or comment things in the text files as you like. These have Namalsk *and* DayZ Expansion types in there which are easy to remove)_
-- Open the AIB_PatrolCreator.ps1 script file for editing to adjust the randomisation limits, dog and grenade settings (etc.). _(Note there is also a "Flip" switch that will make a *second* patrol for each JSON file with reversed waypoints, re-randomised loadouts and opposite bandit class)_
-- Run the script to read the waypoints from each file, randomly select from the loot/weapons/NPC (etc.) and create a procedurally-generated patrol JSON file in the same folder
-- Review that output and carefully insert this array into your server profile's `\AI_Bandits\DynamicAIB.json` file. _(*Don't* include the leading "[" or trailing "]" characters from the output file. *Do* copy from the first "{" to last "}" character and paste into your DynamicAIB file after your last GroupLocation (right before the SniperLocations line)_
-- Check your JSON file(s) at https://jsonlint.com/ to confirm the structure is correct. _(Syntax errors, stray commas or unclosed brackets are the most common cause of problems)_
+1. Download this repo and save the files somewhere convenient.
+2. Use [Dab's DayZ Edtior mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2250764298) to place items as waypoints and export as JSON object-spawner file. Do this many times over for each patrol, naming each exported JSON with your preferred patrol name.
+3. Copy your exported patrol JSON files into the \sourcePatrolFiles folder.
+_(I have left some Namalsk patrol files as examples, delete those before running the script with your patrols)_
+4. The \slotItemLists folder stores a collection of text files named for each bandit loadout slot, the list of AI Bandit NPC types, the list of weaponpool items and a random list of global loot.
+_(You can edit, add, remove or comment things in the text files as you like. These have Namalsk *and* DayZ Expansion types in there which are easy to remove)_
+5. Open the AIB_PatrolCreator.ps1 script file for editing to adjust the randomisation limits, dog and grenade settings (etc.).
+_(Note there is also a "Flip" switch that will make a *second* patrol for each JSON file with reversed waypoints, re-randomised loadouts and opposite bandit class)_
+6. Run the script to read the waypoints from each file, randomly select from the loot/weapons/NPC (etc.) and create a procedurally-generated patrol JSON file in the same folder. 
+_(Recommend right-click 'edit' with Powershell ISE if you want to watch it work or debug anything)_
+7. Review that output and carefully insert this array into your server profile's `\AI_Bandits\DynamicAIB.json` file.
+_(*Don't* include the leading "[" or trailing "]" characters from the output file. *Do* copy from the first "{" to last "}" character and paste into your DynamicAIB file after your last GroupLocation (right before the SniperLocations line)_
+8. Check your JSON file(s) at https://jsonlint.com/ to confirm the structure is correct.
+_(Syntax errors, stray commas or unclosed brackets are the most common cause of problems)_
 
 ---
 
-#Github AI slop overview:
+## Github AI slop overview:
 
 The AI Bandit Patrol Creator automates the creation of complex patrol group configurations by:
 - Extracting waypoint coordinates from DayZ Editor spawner JSON files
