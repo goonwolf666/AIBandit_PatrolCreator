@@ -1,0 +1,420 @@
+{
+    "Objects": [
+        {
+            "name": "GiftBox_Small_1",
+            "pos": [
+                4474.51611328125,
+                11.844276428222657,
+                11113.6689453125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "GiftBox_Small_1",
+            "pos": [
+                6247.50146484375,
+                4.9856719970703129,
+                11927.2548828125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "GiftBox_Small_1",
+            "pos": [
+                4883.1357421875,
+                318.2615051269531,
+                11039.9892578125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "GiftBox_Small_1",
+            "pos": [
+                6230.95068359375,
+                12.789276123046875,
+                11613.181640625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "GiftBox_Small_1",
+            "pos": [
+                4916.47900390625,
+                11.334457397460938,
+                11012.701171875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "GiftBox_Small_1",
+            "pos": [
+                4536.42919921875,
+                14.629974365234375,
+                11030.9580078125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "GiftBox_Small_1",
+            "pos": [
+                6180.728515625,
+                15.35614013671875,
+                11521.09765625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "GiftBox_Small_1",
+            "pos": [
+                4459.82470703125,
+                17.225379943847658,
+                10957.591796875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "GiftBox_Small_1",
+            "pos": [
+                4706.18212890625,
+                22.41357421875,
+                10622.7822265625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "GiftBox_Small_1",
+            "pos": [
+                6083.58984375,
+                14.99993896484375,
+                11483.275390625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "GiftBox_Small_1",
+            "pos": [
+                4885.40576171875,
+                12.629402160644532,
+                10938.6708984375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "GiftBox_Small_1",
+            "pos": [
+                6089.98779296875,
+                15.284194946289063,
+                11387.4345703125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "GiftBox_Small_1",
+            "pos": [
+                5190.791015625,
+                11.181060791015625,
+                10959.630859375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "GiftBox_Small_1",
+            "pos": [
+                6408.89013671875,
+                9.6121826171875,
+                11185.7666015625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "GiftBox_Small_1",
+            "pos": [
+                5436.08984375,
+                48.397823333740237,
+                10880.642578125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "GiftBox_Small_1",
+            "pos": [
+                6161.91064453125,
+                18.788909912109376,
+                11123.876953125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "GiftBox_Small_1",
+            "pos": [
+                5656.19091796875,
+                14.952667236328125,
+                10587.75
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "GiftBox_Small_1",
+            "pos": [
+                6148.1025390625,
+                36.166038513183597,
+                10883.205078125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "GiftBox_Small_1",
+            "pos": [
+                5837.69091796875,
+                18.358810424804689,
+                10720.0830078125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "GiftBox_Small_1",
+            "pos": [
+                6027.98974609375,
+                30.277751922607423,
+                10785.2578125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "GiftBox_Small_1",
+            "pos": [
+                5683.8720703125,
+                23.773117065429689,
+                10773.87890625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "GiftBox_Small_1",
+            "pos": [
+                5711.2451171875,
+                58.30051803588867,
+                11124.57421875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "GiftBox_Small_1",
+            "pos": [
+                5539.8935546875,
+                52.8970947265625,
+                11008.1328125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "GiftBox_Small_1",
+            "pos": [
+                5784.484375,
+                4.204452991485596,
+                11512.11328125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "GiftBox_Small_1",
+            "pos": [
+                5333.46142578125,
+                5.88714599609375,
+                11134.0419921875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "GiftBox_Small_1",
+            "pos": [
+                5971.43798828125,
+                7.110443115234375,
+                11741.130859375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0,
+            "customString": ""
+        }
+    ]
+}
