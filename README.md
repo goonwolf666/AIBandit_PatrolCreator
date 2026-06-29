@@ -1,8 +1,7 @@
 # AI Bandit Patrol Creator
-
 **Version:** 1.0 (2026-06-29)
 
-A PowerShell script that generates randomized dynamic patrol groups for the [Hunterz's AI Bandit mod for DayZ](https://steamcommunity.com/sharedfiles/filedetails/?id=3628006769).
+A PowerShell script that generates randomized dynamic patrol groups for the [Hunterz's AI Bandit mod for DayZ](https://steamcommunity.com/sharedfiles/filedetails/?id=3628006769). An example DynamicAIB.JSON config file is included, which was partially generated using the example object-spawner and loadout files included here.
 
 ## Human-drafted instructions:
 1. Download this repo and save the files somewhere convenient.
@@ -22,7 +21,8 @@ _(Syntax errors, stray commas or unclosed brackets are the most common cause of 
 
 ---
 
-## Github AI slop overview:
+
+## Github AI gibberish overview:
 
 The AI Bandit Patrol Creator automates the creation of complex patrol group configurations by:
 - Extracting waypoint coordinates from DayZ Editor spawner JSON files
