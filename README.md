@@ -1,11 +1,11 @@
 # AI Bandit Patrol Creator
 **Version:** 1.0 (2026-06-29)
 
-A PowerShell script that generates randomized dynamic patrol groups for the [Hunterz's AI Bandit mod for DayZ](https://steamcommunity.com/sharedfiles/filedetails/?id=3628006769). An example DynamicAIB.JSON config file is included, which was partially generated using the example object-spawner and loadout files included here.
+A PowerShell script that generates randomized dynamic patrol groups for the [Hunterz's AI Bandits mod for DayZ](https://steamcommunity.com/sharedfiles/filedetails/?id=3628006769). An example DynamicAIB.JSON config file is included, which was partially generated using the example object-spawner and loadout files included here.
 
 ## Human-drafted instructions:
 1. Download this repo and save the files somewhere convenient.
-2. Use [Dab's DayZ Edtior mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2250764298) to place items as waypoints and export as JSON object-spawner file. Do this many times over for each patrol, naming each exported JSON with your preferred patrol name.
+2. Use [Dab's DayZ Edtior mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2250764298) to place items on your map as patrol waypoints and export as JSON object-spawner file. Do this many times over for each patrol, naming each exported JSON with your preferred patrol name.
 3. Copy your exported patrol JSON files into the \sourcePatrolFiles folder.
 _(I have left some Namalsk patrol files as examples, delete those before running the script with your patrols)_
 4. The \slotItemLists folder stores a collection of text files named for each bandit loadout slot, the list of AI Bandit NPC types, the list of weaponpool items and a random list of global loot.
